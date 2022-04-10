@@ -1,2 +1,2 @@
-# CS50
+# CS50x
 All problems and final project 
