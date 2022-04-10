@@ -1,0 +1,18 @@
+header {
+    background-color:#bfbfbf;
+    color: #000000;
+    font-size: 1rem;
+    margin: 0;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    color : 000000;
+    display: block;
+    padding: 8px;
+}
+
+nav {
+    background-color: #bfbfbf;
+}
